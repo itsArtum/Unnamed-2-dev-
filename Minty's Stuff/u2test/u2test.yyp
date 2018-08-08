@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "78f436f9-c179-4c2a-b1ee-754e2c4a9646",
+            "Value": {
+                "id": "0b3fa27c-5774-47c2-a379-d7e33840e153",
+                "resourcePath": "objects\\burgerTime\\burgerTime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7c37322e-9da4-4a2d-ae12-bcefcbca302c",
             "Value": {
                 "id": "ad2ed99f-53d1-4d13-b462-528ffd4b43b5",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "8700651b-d3c8-4572-bb6c-f39c7d8b369b",
+            "Value": {
+                "id": "6429a9ae-2730-4b4d-8f4e-237b5e30e610",
+                "resourcePath": "sounds\\burgerscry\\burgerscry.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "893e1ee9-6687-4e7c-9f2f-8b7d38643229",
             "Value": {
                 "id": "65e8cea4-0b00-4fa2-befe-76d43d702363",
@@ -156,6 +172,14 @@
                 "id": "cb220e38-9864-4561-909a-c9f0cf5cfe90",
                 "resourcePath": "views\\8da7d4ac-073d-49af-b8f5-6b6484195b29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9947a74c-2983-49f2-94f6-bc79b8c8e781",
+            "Value": {
+                "id": "977098f9-3a8d-4134-a67d-d75948bfead0",
+                "resourcePath": "sprites\\burgers\\burgers.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,6 +292,22 @@
                 "id": "796b12cf-180e-4f5c-9925-ab679270fa8a",
                 "resourcePath": "sprites\\char3idle1\\char3idle1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef8a5da0-825b-4cb5-a37e-cc3ed08817af",
+            "Value": {
+                "id": "8e00caae-f206-433b-8533-172f7c24db7d",
+                "resourcePath": "sprites\\burgershelf\\burgershelf.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1376105-7b26-4e8a-901a-764c8cb84481",
+            "Value": {
+                "id": "01b00b67-6fc7-4721-9d9b-87a734f2bb2d",
+                "resourcePath": "objects\\burger\\burger.yy",
+                "resourceType": "GMObject"
             }
         },
         {
